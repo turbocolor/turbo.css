@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "prettier": "2.6.2"
+  },
+  "name": "turbo.css",
+  "version": "3.0.24",
+  "description": "Next generation, blazing fast, lightweight utility-first CSS Framework",
+  "main": "turbo.css@3.0.24.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turbocolor/turbo.css.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/turbocolor/turbo.css/issues"
+  },
+  "homepage": "https://github.com/turbocolor/turbo.css#readme"
+}
